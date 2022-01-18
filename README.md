@@ -7,3 +7,5 @@ logical Anki cards
 Highly recommended for deck authors
 
 Currently a work in progress. Most pages are still missing
+
+Available at https://stoic-galileo-59c4af.netlify.app
